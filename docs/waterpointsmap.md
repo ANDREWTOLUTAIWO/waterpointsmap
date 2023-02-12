@@ -1,0 +1,4 @@
+ 
+# waterpointsmap module
+
+::: waterpointsmap.waterpointsmap
